@@ -29,13 +29,6 @@ Machine learning · App development · Computer networking · DevOps & CI/CD · 
 
 ---
 
-### GitHub activity
-
-![Profile views](https://komarev.com/ghpvc/?username=md-najmul-hossain-nur&style=flat&color=blue)
-
-Check out my repositories → [github.com/md-najmul-hossain-nur](https://github.com/md-najmul-hossain-nur)
----
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/md-najmul-hossain-nur-8726b12a4/) · [GitHub](https://github.com/md-najmul-hossain-nur) · [Facebook](https://www.facebook.com/najmulhossain.nur) · [Instagram](https://www.instagram.com/najmul_hossain_nur/)
