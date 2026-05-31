@@ -1,56 +1,40 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00C4FF;">Md. Najmul Hossain Nur</span></h1>
-<h3 align="center">🚀 3rd-Year CSE Student at United International University</h3>
+## Md. Najmul Hossain Nur
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=💡+CSE+Student+at+UIU;🤖+Exploring+ML+%7C+App+Dev+%7C+Networking+%7C+DevOps;⚡+Passionate+about+Efficient+Systems;🌍+Solving+Real-World+Problems" alt="Typing Animation" />
-</p>
+Final-year CSE student · United International University · Dhaka, Bangladesh
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 **3rd-year CSE student at UIU**  
-- 💻 Exploring **Machine Learning, App Development, Networking & DevOps**  
-- 🌱 Currently learning **System Design & AI tools**  
-- ⚡ Passionate about building **efficient, scalable & impactful systems**  
-- 🧩 Fun fact: I enjoy solving **real-world problems with tech + creativity**  
+### About me
+
+I'm a computer science student in my final year at UIU, focused on building systems that are efficient, scalable, and actually useful. My interests span machine learning, DevOps, networking, and app development — basically anything where good engineering meets real-world impact.
+
+- 🎓 B.Sc. in CSE (final year), United International University
+- 🔭 Currently exploring system design, AI tooling, and cloud infrastructure
+- 💡 I like picking up hard problems and working through them methodically
+- 📬 Open to collaboration, internships, or just a good technical conversation
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,matlab,html,css,git,github,docker,linux,bash,vscode,nginx,express,postgresql&perline=8" />
-</p>
+### Tech stack
+
+**Languages** — C++, Python, JavaScript, MATLAB, HTML/CSS  
+**Backend & infra** — Express.js, PostgreSQL, Docker, Nginx, Linux, Bash  
+**Tools** — Git, GitHub, VS Code
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### Areas of interest
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-najmul-hossain-nur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-najmul-hossain-nur&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-najmul-hossain-nur&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
+Machine learning · App development · Computer networking · DevOps & CI/CD · System design
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-najmul-hossain-nur-8726b12a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/najmulhossain.nur" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/najmul_hossain_nur/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### GitHub activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-najmul-hossain-nur&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/md-najmul-hossain-nur)
 
 ---
 
-⭐️ From [Md. Najmul Hossain Nur](https://github.com/md-najmul-hossain-nur)
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/md-najmul-hossain-nur-8726b12a4/) · [GitHub](https://github.com/md-najmul-hossain-nur) · [Facebook](https://www.facebook.com/najmulhossain.nur) · [Instagram](https://www.instagram.com/najmul_hossain_nur/)
