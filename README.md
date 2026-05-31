@@ -31,8 +31,9 @@ Machine learning · App development · Computer networking · DevOps & CI/CD · 
 
 ### GitHub activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-najmul-hossain-nur&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/md-najmul-hossain-nur)
+![Profile views](https://komarev.com/ghpvc/?username=md-najmul-hossain-nur&style=flat&color=blue)
 
+Check out my repositories → [github.com/md-najmul-hossain-nur](https://github.com/md-najmul-hossain-nur)
 ---
 
 ### Connect
