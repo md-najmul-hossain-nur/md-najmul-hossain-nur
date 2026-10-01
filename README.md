@@ -30,7 +30,7 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 - [**Restaurant Management System**](https://github.com/md-najmul-hossain-nur/Restaurant-Management-System): Role-based platform for Admin, Chef, Waiter and Customer (PHP, MySQL)
 - [**Smart Waste Management System**](https://github.com/md-najmul-hossain-nur/Smart-waste-management-system): Bluetooth-controlled robotic waste collector (Arduino Mega)
 - [**AUMS**](https://github.com/md-najmul-hossain-nur/Submarine): Autonomous Underwater Monitoring Submarine (Raspberry Pi 5, ESP32)
-- [**Pen-Fight-Mania**](https://github.com/md-najmul-hossain-nur/Pen-Fight-Mania)
+
 
 ## 📝 Research
 
