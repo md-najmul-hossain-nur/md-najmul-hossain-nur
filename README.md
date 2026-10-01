@@ -1,5 +1,3 @@
-# Hi There !!!
-
 My name is Md. Najmul Hossain Nur. I am currently a CSE student at [United International University](https://www.uiu.ac.bd/) in Bangladesh. I have hands-on experience in software, embedded systems, and robotics, and I enjoy turning practical problems into useful digital solutions. I am also a member of **Uro Bangladesh**, the student-led robotics and UAV research team of UIU.
 
 Currently exploring system design, AI tooling, and cloud infrastructure. I can build web apps, desktop apps, IoT/embedded systems, and design UI/UX in Figma. My software skills are complemented by electronics and robotics.
@@ -18,21 +16,20 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 ## 🏆 My Achievements
 
 - **10th globally and 2nd in Asia**, TEKNOFEST 2026 International UAV Competition (Rotary Wing), Türkiye, with Uro Bangladesh 🌎
-- **Champion**, UIU CSE Department Project Show, Spring 2025 (Database Project) 🥇
-- **4th place**, UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project)
-- **4th place**, UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project)
-- **Top 10**, UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR)
-- Won **three trophies** in UIU CSE project competitions across multiple lab showcases 🏆
+- **Champion**, UIU CSE Department Project Show, Spring 2025 (Database Project) 🇧🇩🥇
+- **4th place**, UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project) 🇧🇩
+- **4th place**, UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project) 🇧🇩
+- **Top 10**, UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR) 🇧🇩
+- Won **three trophies** in UIU CSE project competitions across multiple lab showcases 🇧🇩🏆
 
 ## 🚀 My Projects
 
-- **SearchAR**: AI-powered community safety platform for missing-person detection, fire hazard detection and crime reporting
-- **PlantGuard**: AI-powered Flask web app that detects plant diseases and suggests treatments
+- [**SearchAR**](https://github.com/md-najmul-hossain-nur/Searchar): AI-powered community safety platform for missing-person detection, fire hazard detection and crime reporting
 - [**UNO Night**](https://github.com/md-najmul-hossain-nur/UNO_NIGHT): Multiplayer UNO game with clans, chat and in-game shop (Java, JavaFX)
 - [**Sohaj Jogan**](https://github.com/md-najmul-hossain-nur/Sohoj-Jogan): Location-based platform connecting buyers with nearby local shops (PHP, MySQL)
-- **Restaurant Management System**: Role-based platform for Admin, Chef, Waiter and Customer (PHP, MySQL)
-- **Smart Waste Management System**: Bluetooth-controlled robotic waste collector (Arduino Mega)
-- **AUMS**: Autonomous Underwater Monitoring Submarine (Raspberry Pi 5, ESP32)
+- [**Restaurant Management System**](https://github.com/md-najmul-hossain-nur/Restaurant-Management-System): Role-based platform for Admin, Chef, Waiter and Customer (PHP, MySQL)
+- [**Smart Waste Management System**](https://github.com/md-najmul-hossain-nur/Smart-waste-management-system): Bluetooth-controlled robotic waste collector (Arduino Mega)
+- [**AUMS**](https://github.com/md-najmul-hossain-nur/Submarine): Autonomous Underwater Monitoring Submarine (Raspberry Pi 5, ESP32)
 - [**Pen-Fight-Mania**](https://github.com/md-najmul-hossain-nur/Pen-Fight-Mania)
 
 ## 📝 Research
