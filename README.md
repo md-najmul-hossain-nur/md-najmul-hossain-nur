@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Hi%20There%20!!!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=I'm+Md.+Najmul+Hossain+Nur;CSE+Student+%40+United+International+University;Developer+%7C+Figma+UI%2FUX+Designer;Member+of+Uro+Bangladesh+%7C+TEKNOFEST+2026" alt="Typing SVG" /></a>
-</p>
+# Hi There !!!
 
 My name is Md. Najmul Hossain Nur. I am currently a CSE student at [United International University](https://www.uiu.ac.bd/) in Bangladesh. I have hands-on experience in software, embedded systems, and robotics, and I enjoy turning practical problems into useful digital solutions. I am also a member of **Uro Bangladesh**, the student-led robotics and UAV research team of UIU.
 
@@ -21,11 +17,12 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 
 ## 🏆 My Achievements
 
-- 10th globally and 2nd in Asia at the **TEKNOFEST 2026** International UAV Competition (Rotary Wing), Türkiye, with **Uro Bangladesh** 🌎
-- Champion of the UIU CSE Department Project Show, Spring 2025 (Database Project) 🥇
-- 4th place in the UIU CSE Department Project Show, Fall 2024 (Advanced OOP Project)
-- 4th place in the UIU CSE Department Project Show, Summer 2025 (Systems Analysis & Design Project)
-- Top 10 in the UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR)
+- **10th globally and 2nd in Asia**, TEKNOFEST 2026 International UAV Competition (Rotary Wing), Türkiye, with Uro Bangladesh 🌎
+- **Champion**, UIU CSE Department Project Show, Spring 2025 (Database Project) 🥇
+- **4th place**, UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project)
+- **4th place**, UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project)
+- **Top 10**, UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR)
+- Won **three trophies** in UIU CSE project competitions across multiple lab showcases 🏆
 
 ## 🚀 My Projects
 
@@ -55,5 +52,3 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najmulhossain.nur)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najmul_hossain_nur/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnajmulhossainnur@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
