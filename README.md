@@ -1,3 +1,6 @@
+## ✨ A little about me
+
+
 My name is Md. Najmul Hossain Nur. I am currently a CSE student at [United International University](https://www.uiu.ac.bd/) in Bangladesh. I have hands-on experience in software, embedded systems, and robotics, and I enjoy turning practical problems into useful digital solutions. I am also a member of **Uro Bangladesh**, the student-led robotics and UAV research team of UIU.
 
 Currently exploring system design, AI tooling, and cloud infrastructure. I can build web apps, desktop apps, IoT/embedded systems, and design UI/UX in Figma. My software skills are complemented by electronics and robotics.
