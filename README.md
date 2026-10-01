@@ -16,11 +16,11 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 ## 🏆 My Achievements
 
 - **10th globally and 2nd in Asia**, TEKNOFEST 2026 International UAV Competition (Rotary Wing), Türkiye, with Uro Bangladesh 🌎
-- **Champion**, UIU CSE Department Project Show, Spring 2025 (Database Project) 🇧🇩🥇
-- **4th place**, UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project) 🇧🇩
-- **4th place**, UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project) 🇧🇩
-- **Top 10**, UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR) 🇧🇩
-- Won **three trophies** in UIU CSE project competitions across multiple lab showcases 🇧🇩🏆
+- **Champion**, UIU CSE Department Project Show, Spring 2025 (Database Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/> 🥇
+- **4th place**, UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- **4th place**, UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- **Top 10**, UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- Won **three trophies** in UIU CSE project competitions across multiple lab showcases <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/> 🏆
 
 ## 🚀 My Projects
 
@@ -34,7 +34,7 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 
 ## 📝 Research
 
-- AgriML-BD: Crop Yield Prediction and Recommendation (Ongoing, submitted Jun 2026), as Data Engineer
+- AgriML-BD: Crop Yield Prediction and Recommendation (Ongoing), as Data Engineer
 
 ## Technologies I know ⚙️💻
 
@@ -48,4 +48,5 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-najmul-hossain-nur)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najmulhossain.nur)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najmul_hossain_nur/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnajmulhossainnur@gmail.com)
+
+📧 [mnajmulhossainnur@gmail.com](mailto:mnajmulhossainnur@gmail.com)
