@@ -18,12 +18,12 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 
 ## 🏆 My Achievements
 
-- **10th globally and 2nd in Asia**, TEKNOFEST 2026 International UAV Competition (Rotary Wing), Türkiye, with Uro Bangladesh 🌎
-- **Champion**, UIU CSE Department Project Show, Spring 2025 (Database Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/> 🥇
-- **4th place**, UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
-- **4th place**, UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
-- **Top 10**, UIU CSE Department Project Show, Spring 2026 (Software Engineering Project, SearchAR) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
-- Won **three trophies** in UIU CSE project competitions across multiple lab showcases <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/> 🏆
+- **TEKNOFEST 2026 — International UAV Competition (Rotary Wing):** Member of **Uro Bangladesh**, the UIU student-led robotics and UAV research team that secured **10th place globally and 2nd place in Asia** in Türkiye. 🌎🚁
+- 🥇 **Champion** — UIU CSE Department Project Show, Spring 2025 (Database Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- **4th Place** — UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- **4th Place** — UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- **Top 10** — UIU CSE Department Project Show, Spring 2026 (Software Engineering Project — SearchAR) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+- 🏆 **Three Trophies Won** — Across multiple UIU CSE lab project showcases <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
 
 ## 🚀 My Projects
 
