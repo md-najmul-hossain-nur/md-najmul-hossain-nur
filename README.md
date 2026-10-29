@@ -23,7 +23,7 @@ You can check out my [repos](https://github.com/md-najmul-hossain-nur?tab=reposi
 - **4th Place** — UIU CSE Department Project Show, Fall 2024 (Advanced Object-Oriented Programming Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
 - **4th Place** — UIU CSE Department Project Show, Summer 2025 (Systems Analysis and Design Project) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
 - **Top 10** — UIU CSE Department Project Show, Spring 2026 (Software Engineering Project — SearchAR) <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
-- 🏆 **Three Trophies Won** — Across multiple UIU CSE lab project showcases <img src="https://flagcdn.com/w20/bd.png" width="20" alt="Bangladesh"/>
+
 
 ## 🚀 My Projects
 
